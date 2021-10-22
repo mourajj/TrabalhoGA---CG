@@ -1,0 +1,8 @@
+newmtl caixa01    
+
+Ka 0.50 0.50 0.50
+Kd 1.00 1.00 1.00
+
+map_Kd C:\Users\jonat\Downloads\Trabalhos-GA-2021\Trabalhos-GA-2021\TrabGA-CG\caixa01.jpeg
+Ks 1.00 1.00 1.00
+Ns 300  
